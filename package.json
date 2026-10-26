@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@pinecone-database/pinecone": "^6.1.4",
+    "bcryptjs": "^3.0.3",
+    "jose": "^6.2.13",
+    "mysql2": "^3.24.6"
+  }
+}
